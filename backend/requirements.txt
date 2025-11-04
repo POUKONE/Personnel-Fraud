@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+asyncpg
+databases
+pydantic
+sqlalchemy>=1.4
+psycopg2-binary
+python-dotenv
+scikit-learn
